@@ -1,11 +1,13 @@
-// add implementation
+// add implementationn.
 def add(x,y):
     pass
-// add subtraction
+// add subtraction.
 def subtract(x,y):
     pass
+// multiply implementation
 def multiply(x,y):
     pass
+//divide implementation
 def divide(x,y):
  
 
